@@ -20,11 +20,18 @@ the journal entry, when and where it was written, without any hassle or manageme
 
 ###### No SQL Database Options
 * mongo
-* firebase RTD
+* firebase RTD (has easy to work with sdk for react native or android)
 
 ###### Frontend Options
-* React native
+* React native (Works on iOS or Android)
 * Android (Java)
 
 ### Team
-This project would work best with 3-4 people. 1-2 on backend 1-2 on frontend.
+This project would work best with 2-3 people. 1-2 on backend 1-2 on frontend.
+
+### Business
+This would be a free app with a premium paid version 
+
+### Legal
+This would be strictly for a school project with no actual value created during the semester and ownership
+of the idea staying with me. (Although I don't know or care how someone wouldn't be able to just copy the idea later)
