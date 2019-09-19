@@ -1,0 +1,11 @@
+Name: Austin Donnelly
+
+If there's anything I learned in CS, it's that the best apps are the ones that have a single, straight-forward purpose, and do it well. I like that the premise is to do something that is useful quickly and efficiently. Perhaps it could have other features that would help it stand out, but starting with the main feature would give you time to work on other features later anyway. I have experience from the other CS classes at least in Android, Mongo, and Firebase, so I could help contribute with the database stuff perhaps or work on an Android frontend.
+
+Business-wise, since speed would be a selling point for such an app, I don't think ads would be very helpful, but I am curious about what a premium version could be like. What if it allowed for multiple users to save their journal entries to the same group and allowed access within that group? For example, a couple or family could see each other's entries to keep up to date with each other when they can't see each other often. (I was in a long distance relationship with my wife before we got married, so something like that would have been nice to be able to keep her updated on things going on in my life or how I was feeling and vice versa.)
+
+The idea is pretty broad enough that I don't think there would be legal issues other than perhaps making sure a user's journal data is kept encrypted and secure.
+
+Technically, it shouldn't be that difficult to implement at all as you said so long as we stick to keeping it simple and efficient. A mobile phone for a client and perhaps a BYU domain or other server would be fine for keeping an online database. Since we are focusing on the backend, we can keep the frontend clean and simple if necessary.
+
+Let me know if you would like me to join your team on making such an app.
