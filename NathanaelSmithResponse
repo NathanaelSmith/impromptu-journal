@@ -1,0 +1,9 @@
+Nate Smith 
+I would like to join your group because I think this is a great idea. I really like that it keeps track of where you have been and at what times you wrote it at. I think location and time often get lot from my journal entries so I think its a cool idea and product that I would actually consider using. I have experience working with both front and back end for my jobs, and I have also worked as a big data analyst so I have some experience in databases and working with postgresql. So I could work wherever you would need me. 
+
+I think its a good business idea to do both free and premium. Another cool thing you could throw in is maybe do something like chat books, where after a certain number of entries you get a hard copy book of your journal entries in the mail. Maybe that could be an idea for a potential premium version. 
+
+For the legal side, Its a free app(for the most part) and journals have been around for ages so its not like people would be able to come after us for this idea.
+
+On the technical side I think it should be fairly straight forward. We would simply need user tables, entry tables and maybe time and location tables. Making a front end should be fairly straight forward. I think that they main thing that would take up time would be making it into a nice product. 
+ 
