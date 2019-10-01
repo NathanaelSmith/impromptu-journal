@@ -18,8 +18,8 @@
     prompt_id         id of prompt that prompted the entry
     user_id           id of user who created the entry
     
-    FK prompt_id --> Prompts
-    FK user_id --> Users
+    FOREIGN_KEY prompt_id --> Prompts
+    FOREIGN_KEY --> Users
 ```
 
 #### Prompts 
@@ -27,3 +27,7 @@
     id PRIMARY_KEY    id of prompt
     content           content of prompt
 ```
+
+### Entities that tables represent
+
+### Relationship of entities
