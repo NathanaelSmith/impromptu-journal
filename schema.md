@@ -19,7 +19,7 @@
     user_id           id of user who created the entry
     
     FOREIGN_KEY prompt_id --> Prompts
-    FOREIGN_KEY --> Users
+    FOREIGN_KEY user_id --> Users
 ```
 
 #### Prompts 
